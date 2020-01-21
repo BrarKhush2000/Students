@@ -1,6 +1,6 @@
 
 package ca.sheridancollege.week1.softwarefundamentals;
-//I am Khushpreet Singh  Brar that's it. date is 21 jan
+//I am Khushpreet Singh  Brar that's it. date is 21 jan 2020
 public class Student {
     
     private String name;
