@@ -9,6 +9,7 @@ public class Student {
     private int  GPA;
     private String email;
     private String program;
+    private String city;
     private String grade;
 
     public String getGrade() {
