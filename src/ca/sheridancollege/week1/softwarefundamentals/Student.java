@@ -12,6 +12,7 @@ public class Student {
     private String city;
     private String grade;
     private String Status;
+    private String Books;
 
     public String getGrade() {
         return grade;
