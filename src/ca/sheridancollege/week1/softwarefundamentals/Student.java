@@ -60,11 +60,7 @@ public class Student {
         this.GPA = GPA;
     }
 
-    /**
-     * Get the value of name
-     *
-     * @return the value of name
-     */
+   
     public String getName() {
         return name;
     }
